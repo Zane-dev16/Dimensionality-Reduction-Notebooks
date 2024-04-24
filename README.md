@@ -9,8 +9,8 @@ For more about the swiss roll refer to [https://scikit-learn.org/stable/auto_exa
 
 The following notebooks can be found in the `notebooks/` directory:
 
-- **pca.ipynb**: We take several approaches with PCA to reduce the dimensionality of a high dimensional linear dataset.
-- **other_techniques.ipynb**: Covers other techniques: Random projection, LLE, MDS, ISOMAP and t-SNE.
+- **linear_data_dim_reduction.ipynb**: We take several approaches with PCA and Random Projection to reduce the dimensionality of a high dimensional linear dataset.
+- **swiss_roll.ipynb**: We utilize several techniques LLE, MDS, ISOMAP and t-SNE to attempt to unroll the swiss roll
 
 ## Getting Started
 
