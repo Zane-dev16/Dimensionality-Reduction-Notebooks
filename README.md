@@ -1,6 +1,6 @@
 # Dimensionality-Reduction-Notebooks
 
-This repository houses several notebooks that tackle the challenge of reducing high-dimensional linear datasetsl, the mnist dataset and unrolling the swiss roll.
+This repository houses several notebooks that tackle the challenge of reducing high-dimensional linear datasets, the mnist dataset and unrolling the swiss roll.
 The swiss roll is a classic dimensionality reduction problem. 
 
 For more about the mnist dataset refer to [https://www.openml.org/search?type=data&sort=runs&id=554&status=active](https://www.openml.org/search?type=data&sort=runs&id=554&status=active)
